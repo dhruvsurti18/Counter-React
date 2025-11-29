@@ -120,7 +120,8 @@ This project is a perfect example for beginners learning React basics. You get c
 
 * Hooks
 * State updates
-* Timers
+* Timers<img width="1366" height="768" alt="2025-11-29" src="https://github.com/user-attachments/assets/d7922038-154e-4601-bd37-278d8b963aed" />
+
 * Event handling
 
 Feel free to expand this project by adding:
